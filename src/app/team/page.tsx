@@ -11,7 +11,7 @@ export default function Team() {
                 
                 {/* Chef Card 1 */}
                 <div className="bg-white/45 shadow-md rounded-md p-5 text-center border-4 border-black/60">
-                    <Image src="/images/team1.jfif" alt="Chef Mahboob Khan" width={400} height={400}  className="mx-auto border-4 border-red-700 rounded-md" />
+                    <Image src="/images/team1.jpg" alt="Chef Mahboob Khan" width={400} height={400}  className="mx-auto border-4 border-red-700 rounded-md" />
                     <h1 className="text-4xl text-gray-700 mt-6">Mahboob Khan</h1>
                     <button className="bg-red-500 mt-3 p-3 text-white rounded border-4 border-black/55">Kitchen Porter</button>
                     <p className="mt-3 text-black">
@@ -33,7 +33,7 @@ export default function Team() {
                 
                 {/* Chef Card 3 */}
                 <div className="bg-white/45 shadow-md rounded-md p-5 text-center border-4 border-black/60">
-                    <Image src="/images/team3.jfif" alt="Chef Zakir" width={400} height={400} className="mx-auto border-4 border-red-700 rounded-md" />
+                    <Image src="/images/team3.webp" alt="Chef Zakir" width={400} height={400} className="mx-auto border-4 border-red-700 rounded-md" />
                     <h1 className="text-4xl text-gray-700 mt-6">Chef Zakir</h1>
                     <button className="bg-red-500 mt-3 p-3 text-white rounded border-4 border-black/55">Head Chef</button>
                     <p className="mt-3 text-black">
