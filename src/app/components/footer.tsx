@@ -10,7 +10,7 @@ export default function Footer() {
                     <div>
                         <h3 className="text-lg font-bold mb-2 text-red-500">Contact Us</h3>
                         <p>Phone: +92-3445-344</p>
-                        <p>Email: <a href="mailto:kinzaniba@gmail.com" className="text-blue-400">kinzaniba@gmail.com</a></p>
+                        <p>Email: <a href="mailto:kinzaniba@gmail.com" className="text-blue-400">khan@gmail.com</a></p>
                         <p>Address: Khan,s Restaurant, Karachi, Pakistan</p>
                     </div>
 
