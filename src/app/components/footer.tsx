@@ -41,7 +41,7 @@ export default function Footer() {
 
                 {/* Copyright Notice */}
                 <div className="mt-10 text-center">
-                    <p className="text-sm">@Khan,s Restaurant. All rights reserved.</p>
+                    <p className="text-sm">&copy; {new Date().getFullYear()}@Khan,s Restaurant. All rights reserved.</p>
                 </div>
             </div>
         </footer>
